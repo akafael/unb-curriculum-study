@@ -1,0 +1,5 @@
+ipykernel
+scipy
+simpy
+plotly
+pandas
